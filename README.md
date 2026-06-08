@@ -1,6 +1,6 @@
 # Tower of Hanoi
 
-An animated Tower of Hanoi visualizer built with Python and tkinter.
+An animated Tower of Hanoi visualizer built with Python and tkinter. Please note that this was the work of claude code
 
 ## Features
 
